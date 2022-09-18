@@ -1,0 +1,41 @@
+Feedback Exercise 5:
+========================= GENERAL ==========================
+
+========================== TASKS ===========================
+
+Task 1.1: 3.0 / 3.0 points.
+----------------------------------
+Be careful when putting probabilities in logarithmic function. As they approach
+0, the logarithm is blowing which may result in a network blow up. For the
+derivative you actually don’t need that epislon necessarily.
+----------------------------------
+
+Task 1.2: 0.5 / 2.0 points.
+----------------------------------
+You did not set the scale accordingly and why did you not just use
+np.random.normal? This is better for correction purposes. (-1.5P)
+----------------------------------
+
+Task 1.3: 3.0 / 3.0 points.
+----------------------------------
+
+----------------------------------
+
+Task 1.4: 4.0 / 4.0 points.
+----------------------------------
+
+----------------------------------
+
+Task 1.5: 2.0 / 2.0 points.
+----------------------------------
+
+----------------------------------
+
+Task 2.1: 6.0 / 6.0 points.
+----------------------------------
+[no sentence]
+----------------------------------
+
+Total score: 18.5/20.0
+
+If you have questions regarding the correction, please contact the tutor Panajiotis Keßler at uhkgx@student.kit.edu

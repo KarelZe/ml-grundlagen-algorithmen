@@ -1,0 +1,50 @@
+Feedback Exercise 2:
+============================ GENERAL ===========================================
+
+============================= TASKS ============================================
+
+Task 1.1: 4.0 / 4.0 points.
+----------------------------------
+
+----------------------------------
+
+Task 1.2: 3.0 / 3.0 points.
+----------------------------------
+you can write the /features.shape[0] at the end. This increases the readability
+of your code :D
+----------------------------------
+
+Task 2: 3.0 / 3.0 points.
+----------------------------------
+Nicely done using argpartition !
+----------------------------------
+
+Task 3.1: 4.0 / 4.0 points.
+----------------------------------
+
+----------------------------------
+
+Task 3.2: 4.0 / 4.0 points.
+----------------------------------
+
+----------------------------------
+
+Task 3.5.1: 1.0 / 1.0 points.
+----------------------------------
+As the bias is relatively constant for increasing number of trees, the variance
+also decresing due to the mean of the trees.
+----------------------------------
+
+Task 3.5.2: 1.0 / 1.0 points.
+----------------------------------
+
+----------------------------------
+
+Total score: 20.0/20.0
+
+Everything correct! Good job :)
+
+
+
+If you have questions regarding the correction, please contact the tutor Panajiotis Keßler at
+uhkgx@student.kit.edu

@@ -1,0 +1,49 @@
+Feedback Exercise 4:
+========================= GENERAL ==========================
+
+========================== TASKS ===========================
+
+Task 1.1: 2.0 / 3.0 points.
+----------------------------------
+Why do you divide by the sum? This is not necessary (-1P)
+----------------------------------
+
+Task 1.2: 3.0 / 3.0 points.
+----------------------------------
+You could have taken the y into the solve call.
+----------------------------------
+
+Task 1.3: 2.5 / 3.0 points.
+----------------------------------
+You are calculating unnecessary elements of the covariance.  Also you could have
+replaced np.linalg.inv with solve. (-0.5P)
+----------------------------------
+
+Task 1.4: 3.0 / 3.0 points.
+----------------------------------
+
+----------------------------------
+
+Task 1.5: 0.0 / 3.0 points.
+----------------------------------
+no answer
+----------------------------------
+
+Task 2.1: 2.0 / 2.0 points.
+----------------------------------
+
+----------------------------------
+
+Task 2.2: 2.0 / 2.0 points.
+----------------------------------
+
+----------------------------------
+
+Task 2.3: 0.0 / 1.0 points.
+----------------------------------
+no answer
+----------------------------------
+
+Total score: 14.5/20.0
+
+If you have questions regarding the correction, please contact the tutor Panajiotis Keßler at uhkgx@student.kit.edu
